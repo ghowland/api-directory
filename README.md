@@ -9,4 +9,4 @@ This project will be a base library for 2 other projects:
 
 - Using this for FUSE libraries, so that they can connect to APIs when accessing directory structures, primarily for providing a hierarchical organization of reports (as files), and also allowing functions to be run by creating executable scripts which call the API, and return the result.
 
-
+Currently Im thinking of bundling all these projects together in this project, but I might break the other 2 out into their own.  It's advantageous to have them together because then a single configuration could yield FUSE access and web access.

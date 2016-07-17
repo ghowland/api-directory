@@ -1,7 +1,7 @@
 # api-directory
 Python library to configure how to access an API, like if it was a file system directory structure
 
-This is a planned project.
+This is a planned project (Work In Progress).
 
 This project will be a base library for 2 other projects:
 
